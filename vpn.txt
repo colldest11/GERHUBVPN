@@ -1,6 +1,6 @@
 #profile-title: GERHUB VPN 📶
 #profile-update-interval: 1
-#subscription-userinfo: expire=3786912000; total=10995116277760; used=0
+#subscription-userinfo: expire=37869120; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/gerhub_vpn
 #announce: Дешевый VPN. Все что нужно всегдa под рукой. ^⁠_⁠^ @gerhub_vpn
 
